@@ -19,4 +19,5 @@ L'idée est de créer une plateforme qui ressemble à https://www.buymeacoffee.c
 - [solidity](https://docs.soliditylang.org/en/latest/) => pour ecrire notre smart contract
 - [truffle](https://trufflesuite.com/docs/truffle/) => un framework permettand de structurer notre projet web3, il offre des outils pour tester, compiler et deployer notre smart contract
 - [ganache](https://trufflesuite.com/docs/ganache/) => outil intégré dans `truffle` permettant de monitorer notre smart contract en phase de developpement
-- [web3js](https://web3js.readthedocs.io/en/v1.8.2/) => framework js pour creer la partie frontend du projet]
+- [web3js](https://web3js.readthedocs.io/en/v1.8.2/) => librairie js qui permet de communiquer avec notre smart contract.
+- react => la partie front
